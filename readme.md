@@ -10,7 +10,7 @@
 
 1. Set up [react-three-fiber](https://github.com/pmndrs/react-three-fiber)
 1. Put `model.glb` into `/public`
-1. Copy Model.js into the project
+1. Put `Model.js` (the output of [gltfjsx](https://github.com/pmndrs/react-three-fiber)) anywhere inside `/src`
 
 <div align="center">
   <br>
