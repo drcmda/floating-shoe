@@ -3,7 +3,7 @@
 
 ### How to compress assets
 
-1. `npx gltf-pipeline -i model.gltf -o model.glb --draco.compressionLevel=7``
+1. `npx gltf-pipeline -i model.gltf -o model.glb --draco.compressionLevel=7`
 1. `npx gltfjsx model.glb`
 
 ### How to include them into a real project
