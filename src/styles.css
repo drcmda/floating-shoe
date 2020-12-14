@@ -25,8 +25,8 @@ body {
 
 h1 {
   position: absolute;
-  top: 33px;
-  left: 110px;
+  top: 43px;
+  left: 140px;
   padding: 0;
   margin: 40px;
   font-size: 5em;
@@ -37,8 +37,8 @@ h1 {
 
 .picker {
   position: absolute !important;
-  top: 64px;
-  left: 40px;
+  top: 74px;
+  left: 70px;
   width: 90px !important;
   height: 90px !important;
 }
