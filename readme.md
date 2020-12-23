@@ -3,6 +3,8 @@
     
 This is a small primer on how to use GLTF models on the web, specifically how to use them as dynamic assets.
 
+Live demo: https://codesandbox.io/s/floating-shoe-forked-qxjoj
+
 ### How to compress assets and turn them into JSX components
 
 1. `npx gltf-pipeline -i model.gltf -o model.glb --draco.compressionLevel=7`
@@ -13,9 +15,3 @@ This is a small primer on how to use GLTF models on the web, specifically how to
 1. Set up [react-three-fiber](https://github.com/pmndrs/react-three-fiber)
 1. Put `model.glb` into `/public`
 1. Put `Model.js` (the output of [gltfjsx](https://github.com/pmndrs/react-three-fiber)) anywhere inside `/src`
-
-<div align="center">
-  <br>
-  <img src="readme.svg" width="800" height="400">
-  <br>
-</div>
