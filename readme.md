@@ -1,7 +1,11 @@
+![](jumbo.jpg)
+
     npm install
     npm start
     
 This is a small primer on how to use GLTF models on the web, specifically how to use them as dynamic assets.
+
+Tutorial: https://www.youtube.com/watch?v=
 
 Live demo: https://codesandbox.io/s/floating-shoe-forked-qxjoj
 
